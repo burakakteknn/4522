@@ -1,0 +1,1 @@
+EXEC GuvenliArama 'Smith'' OR ''1''=''1';
